@@ -10,7 +10,7 @@ I am a dedicated software developer with a strong focus on building scalable web
 - 🧠 **Passionate About:** Full-stack development and algorithmic problem solving.
 - 🎯 **2025 Goals:** Building AI-integrated web applications.
 - 🚀 **Active In:** Open-source contributions and exploring .NET ecosystems.
-- 📫 **Reach me at:** [Your Email Address Here].
+- 📫 **Reach me at:** tauseefhaider44@gmail.com
 
 ---
 
