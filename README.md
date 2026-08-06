@@ -8,7 +8,7 @@ I am a versatile software developer with a strong focus on building scalable web
 
 - 🧠 **Passionate About:** Full-stack development, Agentic AI, and hardware/IoT integrations.
 - 💻 **Currently Building:** AI-integrated web platforms and automated desktop agents.
-- 🚀 **Core Tech:** MERN Stack, React Native, .NET, and Embedded Systems (ESP32).
+- 🚀 **Core Tech:** MERN Stack, Next.js, React Native, .NET, and Embedded Systems (ESP32).
 - 💡 **Unique Skills:** Reverse engineering (Bluetooth SPP/Wireshark), OCR processing, and custom hardware ecosystems.
 - 📫 **Reach me at:** tauseefhaider.dev@gmail.com
 
@@ -20,6 +20,7 @@ I am a versatile software developer with a strong focus on building scalable web
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
