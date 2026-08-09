@@ -2,6 +2,10 @@
 
 <h3 align="center">A Passionate Full-Stack, Mobile & AI Developer</h3>
 
+<p align="center">
+  <a href="https://tauseefhaider.dev" target="_blank">🌐 View My Portfolio: tauseefhaider.dev</a>
+</p>
+
 <p align="left"> 
 I am a versatile software developer with a strong focus on building scalable web applications, mobile ecosystems, and innovative hardware-software integrations. From reverse-engineering Bluetooth protocols to building Agentic AI desktop applications and full MERN stack platforms, I enjoy tackling complex, multi-disciplinary problems. I am currently diving deep into the world of Machine Learning and Agentic workflows.
 </p>
@@ -10,6 +14,7 @@ I am a versatile software developer with a strong focus on building scalable web
 - 💻 **Currently Building:** AI-integrated web platforms and automated desktop agents.
 - 🚀 **Core Tech:** MERN Stack, Next.js, React Native, .NET, and Embedded Systems (ESP32).
 - 💡 **Unique Skills:** Reverse engineering (Bluetooth SPP/Wireshark), OCR processing, and custom hardware ecosystems.
+- 🌐 **Portfolio:** [tauseefhaider.dev](https://tauseefhaider.dev)
 - 📫 **Reach me at:** tauseefhaider.dev@gmail.com
 
 ---
