@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm M Tauseef</p>
+# <p align="center">Hi 👋, I'm M Tauseef Haider</p>
 
 <h3 align="center">A Passionate Full-Stack, Mobile & AI Developer</h3>
 
